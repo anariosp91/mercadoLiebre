@@ -113,6 +113,12 @@ li{
     padding: 0 5px;
     font-size: 0.6em;
 }
+.img-detail{
+    width: 300px;
+}
+.content main{
+    text-align: center;
+}
 footer{
     text-align: center;
 }
@@ -334,9 +340,7 @@ section article i{
         width: 23%;
         margin: 5px;
     }
-    .productDetail:hover{
-        box-shadow: 0px 0px 10px rgb(100 100 100);
-    }
+
     .nav-bar,.nav-logo{
         max-width: 1200px;
         margin: auto;
